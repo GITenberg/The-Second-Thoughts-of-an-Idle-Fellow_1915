@@ -1,0 +1,34 @@
+_repo: The-Second-Thoughts-of-an-Idle-Fellow_1915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Wit and humor'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: On the art of making up one's mind -- On the disadvantage of not
+  getting what one wants -- On the exceptional merit attaching to the things we meant
+  to do -- On the preparation and employment of love philtres -- On the delights and
+  benefits of slavery -- On the care and management of women -- On the minding of
+  other people's business -- On the time wasted in looking before one leaps -- On
+  the nobility of ourselves -- On the motherliness of man -- On the inadvisability
+  of following advice -- On the playing of marches at the funerals of marionettes.
+title: The Second Thoughts of an Idle Fellow
+url: http://www.gutenberg.org/ebooks/1915
